@@ -1,0 +1,16 @@
+{
+  "name": "twitter-translation-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "twitter-api-v2": "^1.12.3",
+    "google-translate-api": "^2.3.0",
+    "axios": "^0.27.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
